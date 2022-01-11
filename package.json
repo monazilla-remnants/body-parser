@@ -1,5 +1,5 @@
 {
-  "name": "body-parser",
+  "name": "@monazilla-remnants/body-parser",
   "description": "Node.js body parsing middleware",
   "version": "1.19.1",
   "contributors": [
